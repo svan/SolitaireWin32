@@ -1,1 +1,1 @@
-// Would like to seperate the match logic into a seperate .cpp, but I keep getting reference / linker errors.
+// Would like to separate the match logic into a separate .cpp, but I keep getting reference / linker errors.
